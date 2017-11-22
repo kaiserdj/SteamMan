@@ -1,8 +1,8 @@
 exports.lang = {
 	//Textos log
 	savelog: 'Guardado en log los ajustes de inicio del bot',
-	username: 'Nombre de cuenta',
-	owner: 'Dueño',
+	username: 'Nombre de cuenta: ',
+	owner: 'Dueño: ',
 	idle_defect: 'Opción idlear pod defecto: ',
 	idle_game: 'Juego que se idlea por defecto: ',
 	detect_offer: 'Detectar ofertas: ',
