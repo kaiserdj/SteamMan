@@ -1,0 +1,28 @@
+{
+  "name": "steamman",
+  "version": "1.0.1",
+  "description": "Bot para Steam",
+  "main": "bot.js",
+  "scripts": {},
+  "author": {
+    "name": "Kaiserdj",
+    "email": "kaiser0071@hotmail.es",
+    "url": "http://kaiserdj.ddns.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaiserdj/SteamMan.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "fs": "0.0.1-security",
+    "log4js": "^2.3.12",
+    "pastebin-js": "^0.5.1",
+    "steam-totp": "^2.0.1",
+    "steam-tradeoffer-manager": "^2.9.1",
+    "steam-user": "^3.23.2",
+    "steamcommunity": "^3.33.1",
+    "steamrep": "^1.0.1"
+  }
+}
