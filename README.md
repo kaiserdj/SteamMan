@@ -1,5 +1,7 @@
 # SteamMan bot
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kaiserdj/SteamMan-bot.svg)](https://greenkeeper.io/)
+
 
 Simple `NodeJS` Bot con multiples funciones en el entorno Steam.
 
